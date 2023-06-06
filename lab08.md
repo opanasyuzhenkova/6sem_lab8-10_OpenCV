@@ -79,6 +79,6 @@ resultImg, faceBoxes = highlightFace(faceNet, frame)
 
 ### Результаты:
 
-![Расползнавание лица с изображеня камеры](images/video01.png)
+![Расползнавание лица с изображеня камеры](results/video01.png)
 
 
